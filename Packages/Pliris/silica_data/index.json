@@ -1,7 +1,7 @@
 {
   "bundle_id": "com.cemck.pliris",
   "name": "Pliris",
-  "version": "1.0",
+  "version": "1.0.1",
   "tagline": "Complete search queries with a tap!",
   "homepage": "https://cemck.github.io/repo",
   "developer": {
@@ -22,10 +22,6 @@
       "url": "https://cemck.github.io"
     }
   ],
-  "sponsor": {
-    "name": "cemck Sponsor",
-    "email": "studios@shuga.co"
-  },
   "section": "Tweaks",
   "pre_dependencies": "",
   "dependencies": "mobilesubstrate",
