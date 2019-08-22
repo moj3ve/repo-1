@@ -30,7 +30,7 @@
   "provides": "",
   "other_control": ["Tag: role::enduser", "SomeOtherEntryToControl: True"],
 
-  "tint": "#147efb",
+  "tint": "#FF5252",
   "works_min": "11.0",
   "works_max": "12.4",
   "featured": "true",
