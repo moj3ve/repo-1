@@ -2,10 +2,11 @@
   "name": "cemck",
   "description": "iOS tweaks and stuff",
   "tint": "#5534eb",
-  "cname": "cemck.github.io/repo",
+  "cname": "cemck.github.io",
   "maintainer": {
     "name": "cemck",
     "email": "cem_ck@icloud.com"
   },
-  "automatic_git": "true"
+  "automatic_git": "true",
+  "subfolder": "repo"
 }
