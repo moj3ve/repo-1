@@ -114,7 +114,7 @@ class DepictionGenerator:
         screenshot_size = PackageLister.GetScreenshotSize(self, tweak_data)
 
         depiction = {
-            "minVersion": "0.1",
+            "minVersion": "0.3",
             "headerImage": "https://" + repo_settings['cname'] + subfolder + "/assets/" + tweak_data['bundle_id'] + "/banner.png",
             "tintColor": tint,
             "tabs": [
