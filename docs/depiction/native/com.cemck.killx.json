@@ -8,7 +8,8 @@
       "views": [
         {
           "class": "DepictionAdmobView",
-          "adUnitID": "ca-app-pub-1355604931019368/3367082561"
+          "adUnitID": "ca-app-pub-3940256099942544/6300978111",
+          "adSize": "Banner"
         },
         {
           "class": "DepictionScreenshotsView",
