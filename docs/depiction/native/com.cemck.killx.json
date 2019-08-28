@@ -28,6 +28,12 @@
           "class": "DepictionMarkdownView"
         },
         { "class": "DepictionSpacerView" },
+        {
+          "class": "DepictionAdmobView",
+          "adUnitID": "ca-app-pub-1355604931019368/5410043544",
+          "adSize": "Banner"
+        },
+        { "class": "DepictionSpacerView" },
         { "class": "DepictionHeaderView", "title": "Information" },
         {
           "class": "DepictionTableTextView",
